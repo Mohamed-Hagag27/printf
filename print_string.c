@@ -1,10 +1,8 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *rev_string - prints the reversed string
- *
  * @s: string that is passed
  * @length: length of the string
- *
  * Return: No return type
  */
 void rev_string(char *s, int length)
@@ -22,11 +20,9 @@ void rev_string(char *s, int length)
 	}
 }
 /**
- *rot13 - pushes the character by 13 untis forward
- *
+ *rot13 - pushes the character by 13 unitss forward
  * @str: string that is passed
  * @length: lenght of the string that is passed
- *
  * Return: pointer to the string modified
  */
 char *rot13(char *str, int length)
