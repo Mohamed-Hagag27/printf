@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * hex_converter - Converts numbers into a hexadecimal string
